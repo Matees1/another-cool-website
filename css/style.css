@@ -1,0 +1,126 @@
+h1 {
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+#p1 {
+  font-family: 'Roboto', sans-serif;
+  position: relative;
+  top: 200px;
+  font-size: 30px;
+  color: #A98B98;
+  transition: top 500ms ease-in-out
+}
+
+#p1:hover {
+  top: 195px;
+  cursor: none;
+}
+
+.top-container {
+  background-color: #B8E0D8;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 393px;
+}
+
+.what-i-do {
+  position: relative;
+  background-color: #D3E0EA;
+  padding-top: 200px;
+  height: 809px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 400px;
+  height: 100px;
+}
+
+.mountain {
+  position: relative;
+  top: 200px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 60px;
+  height: 100px;
+}
+
+#im-matees {
+  top: 200px;
+  position: relative;
+  font-size: 80px;
+  color: #FF7B54;
+  font-weight: normal;
+}
+
+#img-matees {
+  margin: auto 0 auto 0;
+  height: 300px;
+  position: relative;
+  bottom: 100px;
+  transition: bottom 400ms ease-in-out;
+}
+
+#img-matees:hover {
+  bottom: 95px;
+}
+
+#about-h3 {
+  position: relative;
+  margin: auto 0 auto 0;
+  padding-top: 70px;
+  font-size: 80px;
+  font-style: normal;
+  font-family: 'Roboto', sans-serif;
+  color: #FF7B54;
+  bottom: 70px;
+}
+
+
+#about-p1 {
+  position: relative;
+  margin-left: auto 0 auto 0;
+  font-size: 40px;
+  font-style: normal;
+  color: #A98B98;
+  font-family: 'Roboto', sans-serif;
+  bottom: 80px;
+  transition: bottom 400ms ease-in-out;
+}
+
+#about-p1:hover {
+  bottom: 75px;
+}
+
+.about-text-div {
+  position: relative;
+  bottom: 100px;
+}
+
+.secondlayernonbox {
+  position: relative;
+  top: 100px;
+}
+
+.contact-me{
+  position: relative;
+  background-color: #B8E0D8;
+  height: 300px;
+}
+
+#pls-no-sue{
+  padding-top: 100px;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  color: #1687A7;
+}
